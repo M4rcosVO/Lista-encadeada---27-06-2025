@@ -1,3 +1,1 @@
-UniBH - Estruturas de dados - Lista
-
-Implemente os métodos que faltam para uma lista simplesmente encadeada.
+Atividade realizada em sala de aula no dia 27/02/25
